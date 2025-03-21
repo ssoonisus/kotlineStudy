@@ -32,6 +32,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         Log.d(TAG, "onCreate")
 
+        Toast.makeText(this,"test", Toast.LENGTH_LONG).show()
+
     findViewById<Button>(R.id.login_button).setOnClickListener {
         val userName = findViewById<EditText>(R.id.user_name).text.toString()
         val userPasword = findViewById<EditText>(R.id.user_password).text.toString()
