@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">kotlinStudy</string>
+    <string name="first_name_text">First Name</string>
+    <string name="last_name_text">Last Name</string>
+    <string name="enter_button_text">Enter</string>
+    <string name="welcome_to_the_app">Welcome to the app</string>
+    <string name="please_enter_a_name">Please enter a full name!</string>
+    <string name="create_RGB">Create an Rgb Color</string>
+    <string name="add_disceiption">Add two hexadecimal characters between 0-9, A-F or a-f without the \'#\' for each chanel</string>
+    <string name="RED_channel">RED CHANNEL</string>
+    <string name="BLUE_channel">BLUE CHANNEL</string>
+    <string name="GREEN_channel">GREEN CHANNEL</string>
+    <string name="create_rgb">CREATE RGB COLOR</string>
+    <string name="Channel_color">Channel color display panel</string>
+    <string name="first_name_label">First Name : </string>
+    <string name="email_label">Email : </string>
+    <string name="last_name_label">Last Name : </string>
+    <string name="discount_code_button">GET DISCOUNT</string>
+    <string name="discount_code_confirmation">Hey %s! Here is your discount code</string>
+    <string name="add_text_validation">Please fill in all from fields</string>
+    <string name="header_text">Enter your name and email for a discount code at your Favorite Restaurant!</string>
+    <string name="login_form">Please enter your username and password below to login : </string>
+    <string name="user_name">Enter your username :</string>
+    <string name="user_password">Enter your password :</string>
+    <string name="Login_button">LOGIN</string>
+</resources>
